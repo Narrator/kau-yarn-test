@@ -6,6 +6,15 @@
       "service": "Lambda",
       "dependsOn": [
         {
+          "category": "storage",
+          "resourceName": "Person",
+          "attributes": [
+            "Name",
+            "Arn",
+            "StreamArn"
+          ]
+        },
+        {
           "category": "api",
           "resourceName": "kauyarntest",
           "attributes": [
