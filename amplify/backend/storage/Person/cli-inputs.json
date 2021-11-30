@@ -1,0 +1,12 @@
+{
+  "resourceName": "Person",
+  "tableName": "Person",
+  "partitionKey": {
+    "fieldName": "y",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": [
+    "PersonTrigger3dd7843b"
+  ]
+}
