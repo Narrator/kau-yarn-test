@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify1cae814e8e244-staging-192540-authRole",
+      "UnauthRoleArn": "arn:aws:iam::357128036178:role/amplify-amplify1cae814e8e244-staging-192540-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::357128036178:role/amplify-amplify1cae814e8e244-staging-192540-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplify1cae814e8e244-staging-192540-deployment",
+      "UnauthRoleName": "amplify-amplify1cae814e8e244-staging-192540-unauthRole",
+      "StackName": "amplify-amplify1cae814e8e244-staging-192540",
+      "StackId": "arn:aws:cloudformation:us-west-2:357128036178:stack/amplify-amplify1cae814e8e244-staging-192540/23aaab20-514a-11ec-a6ac-0a5e1eae02b3",
+      "AmplifyAppId": "d7064ks9qsfvy"
+    },
+    "categories": {
+      "function": {
+        "HelloWorld": {
+          "deploymentBucketName": "amplify-amplify1cae814e8e244-staging-192540-deployment",
+          "s3Key": "amplify-builds/HelloWorld-2f515345476d30425675-build.zip"
+        }
+      }
+    }
+  }
+}
