@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "kauyarntest",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/kgnanask/sandbox/kau-yarn-test/amplify/backend/api/kauyarntest/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

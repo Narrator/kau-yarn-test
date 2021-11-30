@@ -15,7 +15,7 @@
       "function": {
         "HelloWorld": {
           "deploymentBucketName": "amplify-amplify1cae814e8e244-staging-192540-deployment",
-          "s3Key": "amplify-builds/HelloWorld-2f515345476d30425675-build.zip"
+          "s3Key": "amplify-builds/HelloWorld-70706d6c756c5769745a-build.zip"
         },
         "PersonTrigger3dd7843b": {
           "deploymentBucketName": "amplify-amplify1cae814e8e244-staging-192540-deployment",
