@@ -7,6 +7,7 @@
   },
   "gsi": [],
   "triggerFunctions": [
-    "PersonTrigger3dd7843b"
+    "PersonTrigger3dd7843b",
+    "HelloWorld"
   ]
 }
