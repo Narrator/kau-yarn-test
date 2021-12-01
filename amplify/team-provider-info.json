@@ -21,6 +21,21 @@
           "deploymentBucketName": "amplify-amplify1cae814e8e244-staging-192540-deployment",
           "s3Key": "amplify-builds/PersonTrigger3dd7843b-33593930522b574c7a39-build.zip"
         }
+      },
+      "auth": {
+        "kauyarntestda290f40": {
+          "userPoolId": "us-west-2_vXQz18wzt",
+          "userPoolName": "nextjstest-staging",
+          "webClientId": "5mtkch1s84h7gq1v30vsg6v9oc",
+          "nativeClientId": "6ql3ilsmh5snlik2g6vf867gv4",
+          "identityPoolId": "us-west-2:589ed3a6-9206-45fc-8f16-00a0d0f396df",
+          "identityPoolName": "testAuthIdentityPool__staging",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::357128036178:role/amplify-amplify4acf668f18534-staging-192112-authRole",
+          "authRoleName": "amplify-amplify4acf668f18534-staging-192112-authRole",
+          "unauthRoleArn": "arn:aws:iam::357128036178:role/amplify-amplify4acf668f18534-staging-192112-unauthRole",
+          "unauthRoleName": "amplify-amplify4acf668f18534-staging-192112-unauthRole"
+        }
       }
     }
   }

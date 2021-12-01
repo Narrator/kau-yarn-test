@@ -64,5 +64,14 @@
         }
       }
     }
+  },
+  "auth": {
+    "kauyarntestda290f40": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
   }
 }
