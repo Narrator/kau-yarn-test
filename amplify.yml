@@ -4,6 +4,9 @@ backend:
     build:
       commands:
         - amplifyPush --simple
+    postBuild:
+      commands:
+        - non-existent-command
 frontend:
   phases:
     preBuild:
