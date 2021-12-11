@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3backenddeletefailteststoraged176nu16bszpin",
+  "bucketName": "backend-delete-fail-test-storage-d176nu16bszpin",
+  "policyUUID": "edeae4e1",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
